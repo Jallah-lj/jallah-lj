@@ -1,5 +1,5 @@
 <!-- ============================================================
-     TECH GUY — PREMIUM GITHUB PROFILE README
+     Jallah LJ — PREMIUM GITHUB PROFILE README
      ------------------------------------------------------------
      ⚠️ SETUP: Replace every instance of `jallah-lj` with your real
         GitHub username BEFORE committing. This drives the stats,
